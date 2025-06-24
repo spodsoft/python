@@ -1,1 +1,3 @@
-Experiments in Python
+# Experiments in Python
+
+Playground for Python experimentation
